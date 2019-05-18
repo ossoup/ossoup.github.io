@@ -1,0 +1,10 @@
+echo“＃ossoup.github.io”>> README.md 
+git init 
+git add README.md 
+git commit -m“first commit” 
+git remote add origin https://github.com/ossoup/ossoup.github.io.git
+ git push -u origin master
+ 远程连接到Linux操作系统服务器有两种方式：
+方式 1：通过的自助管理平台找系统视图连接。
+方式 2：通过本地 SSH 客户端方式连接。
+通过快云管理平台系统视图的远程连接功能连接
